@@ -6,8 +6,7 @@
 This repository contains a responsive, single-page professional portfolio website deployed on AWS infrastructure. The project demonstrates core cloud engineering concepts including object storage, secure content delivery (CDN), SSL/TLS termination, and infrastructure access management (IAM).
 
 ## 🚀 Live Demo & Repository
-- **CloudFront Live URL:** [INSERT_YOUR_CLOUDFRONT_URL_HERE] (e.g., https://d12345.cloudfront.net)
-- **GitHub Repository:** [INSERT_YOUR_GITHUB_REPO_URL_HERE]
+- **CloudFront Live URL:** https://d1k1x62fwb1qdp.cloudfront.net/ 
 
 ---
 
